@@ -35,6 +35,27 @@ Siga para ML automatizado:
 Novo:
 ![image](https://github.com/noecir/azure/assets/161195278/49fd5b9a-daea-445c-a800-29e26c3fd6a5)
 
+Neste caso foi usado o modelo diponivel em: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+![image](https://github.com/noecir/azure/assets/161195278/14aa6489-da87-4104-ada1-2b0f8ff3a714)
+
+Tipo de dados:
+![image](https://github.com/noecir/azure/assets/161195278/59359125-2739-47a8-9813-dc7f4ce8e6a1)
+
+Dê um nome, descrição, escolha TABULAR e avance.
+![image](https://github.com/noecir/azure/assets/161195278/c4ded366-9dbc-4b61-8ac5-b87ae074e524)
+
+Foi usando os dados disponivel em: https://aka.ms/bike-rentals
+Cole o link e avance:
+![image](https://github.com/noecir/azure/assets/161195278/0f906d85-3ce6-4f1b-80e0-c5dff545db90)
+
+Crie o arquivo de dados:
+![image](https://github.com/noecir/azure/assets/161195278/2bead19e-3f2a-4545-a5f3-528af5b8aa93)
+
+Depois disso clinque em avançar:
+
+
+
+
 
 
 
