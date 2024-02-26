@@ -1,7 +1,11 @@
 # azure
 Criação de modelo de previsão.
 
-Desafio DIO. Passo a passo:
+Este projeto foi realizado para um bootcamp da DIO e pode apresentar erros, uma vez que é um modelo "teste".
+
+***A Azure fornece documentação detalhada, tutoriais e recursos de suporte para ajudar na criação e implementação de modelos de previsão.***
+
+Segue passo a passo:
 
 Na pagina inical(https://portal.azure.com/#home), selecione o Azure conforme imagem abaixo:
 
