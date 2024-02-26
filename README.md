@@ -52,6 +52,13 @@ Crie o arquivo de dados:
 ![image](https://github.com/noecir/azure/assets/161195278/2bead19e-3f2a-4545-a5f3-528af5b8aa93)
 
 Depois disso clinque em avançar:
+![image](https://github.com/noecir/azure/assets/161195278/13540821-b3a7-4ecb-ac45-9fb1e63b9876)
+
+Configurando as tarefas:
+![image](https://github.com/noecir/azure/assets/161195278/5041a360-0c3f-42dc-bf9e-b61a946d088f)
+
+
+
 
 
 
