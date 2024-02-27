@@ -49,6 +49,7 @@ Depois de criar, aguarde a implementação!
 ![image](https://github.com/noecir/azure/assets/161195278/c4ded366-9dbc-4b61-8ac5-b87ae074e524)
 
 Foi usando os dados disponivel em: https://aka.ms/bike-rentals
+
 14.Cole o link e avance:
 ![image](https://github.com/noecir/azure/assets/161195278/0f906d85-3ce6-4f1b-80e0-c5dff545db90)
 
@@ -69,6 +70,18 @@ Foi usando os dados disponivel em: https://aka.ms/bike-rentals
 
 20.Analisando métricas:
 ![image](https://github.com/noecir/azure/assets/161195278/0835fc59-492d-4a5e-b436-2b07d99d8377)
+
+21.Em pontos de extremidade, selecione CRIAR:
+![image](https://github.com/noecir/azure/assets/161195278/6099f586-cff0-4ba8-a9d7-c19d73145f78)
+
+22. Criando:
+![image](https://github.com/noecir/azure/assets/161195278/4022fd3e-894d-422f-8640-1c8a6cc69f2a)
+
+23. Deois de criado, siga para teste e obtenha o código:
+![image](https://github.com/noecir/azure/assets/161195278/63fc7eb4-c8fc-473f-848d-fed8b92930a1)
+
+
+
 
 
 
