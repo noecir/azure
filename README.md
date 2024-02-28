@@ -80,6 +80,7 @@ Foi usando os dados disponivel em: https://aka.ms/bike-rentals
 23. Deois de criado, siga para teste e obtenha o código:
 ![image](https://github.com/noecir/azure/assets/161195278/63fc7eb4-c8fc-473f-848d-fed8b92930a1)
 
+É isso pessoal, qualquer dúvidas e sugestões "tamo aí".
 
 
 
